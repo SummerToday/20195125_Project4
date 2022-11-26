@@ -17,6 +17,6 @@ public:
 };
 int main() {
 	Circle<double> circleA(0.0, 0.0, 10.0);
-	cout << "¸éÀû: " << circleA.area() << endl;
+	cout << "ë©´ì : " << circleA.area() << endl;
 	return 0;
 }
